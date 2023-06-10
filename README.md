@@ -15,7 +15,7 @@ To run the Diwali Sales Analysis project locally, follow these steps:
 
 2. Install the required dependencies:
 
-3. Download the Diwali Sales Data CSV file from [here](https://example.com/diwali-sales-data.csv) and place it in the project directory.
+3. Download the Diwali Sales Data CSV file from [here](https://www.kaggle.com/datasets/nageshbait/diwali-sales-data?resource=download) and place it in the project directory.
 
 4. Run the analysis script:
 
